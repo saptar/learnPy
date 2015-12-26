@@ -6,4 +6,4 @@ to run the code you need to have python3 installed in your environment. go to ht
 
 1.  Hack and Slash
 
-    ##### Small game to understand python object oriented concepts
+    Small game to understand python object oriented concepts
