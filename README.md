@@ -7,3 +7,7 @@ to run the code you need to have python3 installed in your environment. go to ht
 1.  Hack and Slash
 
     Small game to understand python object oriented concepts
+
+2. Math quiz
+
+    Small game to test your basic arithmetic skill. POC of datetime
